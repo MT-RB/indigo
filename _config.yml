@@ -16,10 +16,10 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://mt-rb.github.io
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /:My Blog/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
